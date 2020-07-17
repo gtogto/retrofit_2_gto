@@ -1,2 +1,3 @@
 # retrofit_2_gto
-Android with Retrofit 2
+- Android with Retrofit 2
+- HTTP
